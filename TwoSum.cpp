@@ -17,7 +17,6 @@ public:
         
         cout<<"Hello world is the best software of all time and the best of all"<<endl;
       cout<<"After the protections"<<endl;
-      asdasdas
 
     }
 };
